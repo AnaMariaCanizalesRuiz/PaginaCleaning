@@ -67,7 +67,51 @@
 }
 
 .nav-link{
-color: black;
+color: black  !important;
 
 }
 
+.page-section {
+    padding: 150px;
+  }
+
+  .navbar-nav > .active > a {
+    color: black  !important;
+ 
+  }
+  .nav-item > a:hover {
+    color: black  !important;
+  }
+  .nav-bar .nav-link.active {
+    background-color: black !important;
+    
+  }
+
+  .navlink.active{
+    color: black  !important;
+  }
+
+  .navbar-nav .active{
+    color: black  !important; 
+
+  }
+
+  .active{
+    color:black !important;
+}
+
+nav .navbar-nav li a{
+    color: black !important;
+    }
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.nav-link:active {
+    color: black;
+   }
+
+   .navbar-light .navbar-nav .nav-link.active {
+    color: black;
+  }
