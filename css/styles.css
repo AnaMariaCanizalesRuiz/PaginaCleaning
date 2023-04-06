@@ -290,3 +290,5 @@ nav .navbar-nav li a{
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
 
+  .contenedor:hover .imagen {-webkit-transform:scale(1.3);transform:scale(1.3);}
+  .contenedor {overflow:hidden;}
